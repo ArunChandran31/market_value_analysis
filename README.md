@@ -149,6 +149,7 @@ Click the URL to open the live dashboard.
 ## 👨‍💻 Author
 
 **Arun Kumar C**
+
 If you find this project useful, consider Star starring the repository.
 
 ---
@@ -157,6 +158,4 @@ If you find this project useful, consider Star starring the repository.
 
 This project is open-source and free to use.
 
-```
-Just tell me!
 ```
