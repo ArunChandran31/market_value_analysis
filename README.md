@@ -158,4 +158,4 @@ If you find this project useful, consider Star starring the repository.
 
 This project is open-source and free to use.
 
-```
+---
